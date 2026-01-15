@@ -1,3 +1,4 @@
- for(var i=1;i<=10;i=i+2){
-    console.log(i)
-}
+var a=10
+var b=a--
+console.log(b)
+console.log(a)
